@@ -1,6 +1,7 @@
 package Lezione6_2;
 
-public interface Ricaricabile {
+public interface Ricaricabile 
+{
     void ricarica();
 }
 
